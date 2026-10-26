@@ -1,5 +1,5 @@
 # Content
-Topic: **X**
+Topic: **Cinematography & CGI**
 
 ## Overview/Introduction/Context
 * Text
@@ -8,9 +8,9 @@ Topic: **X**
 ## Part A: existing technology
 
 ##### Software
-* Tech
-  * Detail
-  * [image text](image URL)
+* Shot Designer
+  * Shot Designer is able to create visual diagrams of camera placement, making it easier to carry out the director's vision
+  * ![Shot Designer Diagram](https://cdn.hollywoodcamerawork.com/images/areas/shotdesigner/cameradiagram1.jpg)
 
 ##### Hardware
 * Tech
