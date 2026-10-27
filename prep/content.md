@@ -1,5 +1,5 @@
 # Content
-Topic: **Cinematography & CGI**
+Topic: **Cinema**
 
 ## Overview/Introduction/Context
 * Text
@@ -14,7 +14,11 @@ Topic: **Cinematography & CGI**
  
 * Blender
   * Blender is a free software that is used for 3d model rendering and animations
-  * 
+  * Perks
+    * Customizable
+    * Video Editing Software
+    * Modeling + Sculpting + Rendering
+* 
 
 ##### Hardware
 * Tech
