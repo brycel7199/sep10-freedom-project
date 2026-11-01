@@ -19,7 +19,13 @@ Topic: **Film**
     * Video Editing Software
     * Modeling + Sculpting + Rendering
     * ![blender car model](https://media.cgtrader.com/variants/HyE8iE72cbFVtccL2cSsXZgf/64d1262c1acde2eb3beef249c4695a8ad88c958dd79db36f763bf631017addd0/untitled.png)
-* 
+
+* Houdini
+  * Houdini is a software used for VFX (visual effects)
+  * It's used to manipulate and create:
+    * Fluids, such as water (ocean waves), and lava
+    * Debris & Explosions
+    * Fire and Smoke
 
 ##### Hardware
 * Tech
