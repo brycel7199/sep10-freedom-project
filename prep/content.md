@@ -1,4 +1,4 @@
-# Content
+d# Content
 Topic: **Film**
 
 ## Overview/Introduction/Context
@@ -28,9 +28,9 @@ Topic: **Film**
     * Fire and Smoke
 
 ##### Hardware
-* Tech
-  * Detail
-  * [image text](image URL)
+* Led Panels
+  * Led Panels are energy-conservative lighting plates
+  * [Led Panels text]([image URL](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDmVHMU21ORcXeP7XhgJi_nzxp7ujhD21-aOkfp58EXw&s=10))
 
 ## Part B: possible future technology
 * Idea
