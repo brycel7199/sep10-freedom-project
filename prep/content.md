@@ -31,7 +31,9 @@ Topic: **Film**
 * Led Panels
   * Led Panels are energy-conservative lighting plates
   * ![Led Panels text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDmVHMU21ORcXeP7XhgJi_nzxp7ujhD21-aOkfp58EXw&s=10)
-
+* 3D Printers
+  * 3D Printers are used to build and create props for films, especially in Hollywood
+  * ![3d printer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDOQQLm-ozmbe75WbeL78Y-tls4kXGbhZNyGusFdRDBw&s=10) 
 ## Part B: possible future technology
 * Idea
   * Detail
