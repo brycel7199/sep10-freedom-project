@@ -30,10 +30,15 @@ Topic: **Film**
 ##### Hardware
 * Led Panels
   * Led Panels are energy-conservative lighting plates
-  * ![Led Panels text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDmVHMU21ORcXeP7XhgJi_nzxp7ujhD21-aOkfp58EXw&s=10)
+  * ![Led Panels](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDmVHMU21ORcXeP7XhgJi_nzxp7ujhD21-aOkfp58EXw&s=10)
 * 3D Printers
   * 3D Printers are used to build and create props for films, especially in Hollywood
-  * ![3d printer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDOQQLm-ozmbe75WbeL78Y-tls4kXGbhZNyGusFdRDBw&s=10) 
+  * ![3d printer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDOQQLm-ozmbe75WbeL78Y-tls4kXGbhZNyGusFdRDBw&s=10)
+* Robotic Cameras
+  * Robotic camera are small cameras, and are controlled with remotes, or by being pre-programmed.
+  * They are great for precision shots, with panning, zoom, and tilt motors and lenses built into them
+  * ![Robotic Camera](https://th.bing.com/th/id/OIP.1utIe5SyoE64VqKBJqRP-QHaE8?w=245&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3)
+  
 ## Part B: possible future technology
 * Idea
   * Detail
