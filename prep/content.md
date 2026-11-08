@@ -38,6 +38,14 @@ Topic: **Film**
   * Robotic camera are small cameras, and are controlled with remotes, or by being pre-programmed.
   * They are great for precision shots, with panning, zoom, and tilt motors and lenses built into them
   * ![Robotic Camera](https://th.bing.com/th/id/OIP.1utIe5SyoE64VqKBJqRP-QHaE8?w=245&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3)
+* Animatronics
+ * Animatronics are mechanical figures that are used as a "puppet" something in order to give it life
+ * They use a combination of:
+  * Motors
+  * Joints & Hinges
+  * Hydraulic Pistons
+  * An assortment of other electronics, such as cameras or sound amplifiers in order to give it a personality
+ * ![Tyrannosaurus Rex Animatronic Team from _Jurassic Park_](https://th.bing.com/th/id/OIP.pHZRWEFweqjLzfF0ikUzGgHaD4?w=331&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3)
   
 ## Part B: possible future technology
 * Idea
