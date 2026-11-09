@@ -17,7 +17,7 @@ Topic: **Film**
  
 ### During Film Process
 3. Led Panels
-   * Led Panels are energy-conservative lighting plates
+   * Led Panels are energy-conservative lighting plates that are used to light up backgrounds
    * ![Led Panels](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDmVHMU21ORcXeP7XhgJi_nzxp7ujhD21-aOkfp58EXw&s=10)
 4. Animatronics
    * Animatronics are mechanical figures that are used as a "puppet" something in order to give it life
