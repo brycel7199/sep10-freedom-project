@@ -2,9 +2,7 @@
 Topic: **Film**
 
 ## Overview/Introduction/Context
-* Text
-* Text
-
+Cinema and film is an art that uses recording methods, lightning, sound, and special effects to help tell a story.
 ## Part A: existing technology
 
 ### Before Filming Process
