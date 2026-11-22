@@ -23,7 +23,7 @@ While working on this that one skill that I've developed is time management. I k
 Learning and finding these technologies were difficult, as most of the technologies shown were things that many knew about or non-electrical equipment. I had to use various combinations of keywords to find my results as well.
 
 ## Engineering Design Process
-Now I have finished gathering all my software and hardware technologies information and sorting it. I think I have finished with the research part(?) 
+Now I have finished gathering all my software (Step 1) and hardware technologies (Step 2) information and sorting it (Step 3). I think I have finished with the research part(?) 
 
 
 
