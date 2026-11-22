@@ -14,6 +14,9 @@ Researching and learning about lesser-known film making technologies was tough. 
 ### Sorting Technologies
 Honestly, sorting these technologies was fairly simple in my opinion. After we discussed different ways to sort and/or group categories, I thought about my list of technologies and how they could be sorted, and the process of film making. This led to a thought about orgainizing in a timeline of when they are used in the film making process. The final result ended up being sorted by Pre-Filming, Currently Filming, and Post-Filming.
 
+## Engineering Design Process
+Now I have finished choosing a topic (Step 1), gathered all my software (Step 2) and hardware technologies information(Step 3), and sorting it (Step 4). First we chose a topic that we were passionate about and researched technologies used in this industry. Then we took that information and sorted it so we could insert it into our website later. For example, I chose the industry of film making and researched technologies such as 3d printers, CGI, and robotic cameras.
+
 ## Skills
 
 ### Time Management
@@ -22,8 +25,7 @@ While working on this that one skill that I've developed is time management. I k
 ### Research
 Learning and finding these technologies were difficult, as most of the technologies shown were things that many knew about or non-electrical equipment. I had to use various combinations of keywords to find my results as well.
 
-## Engineering Design Process
-Now I have finished gathering all my software (Step 1) and hardware technologies (Step 2) information and sorting it (Step 3). I think I have finished with the research part(?) 
+
 
 
 
