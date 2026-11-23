@@ -47,5 +47,5 @@ Cinema and film is an art that uses recording methods, lightning, sound, and spe
 
   
 ## Part B: possible future technology
-* Idea
+* Holographic Film Editor
   * Detail
